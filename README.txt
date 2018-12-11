@@ -1,8 +1,8 @@
 						
 						Inventory Management System
 
-	Name : Kaushik Bhaurao Burkule
-	MIS  : 141508004
+	Name :Sanket Unche	
+	MIS  : 141503016
 	************************************************************************************************************************
 
 		The uncertainty of the economy and rising food costs keep restaurant operators on edge. To keep costs in check, it is important to maintain a detailed record of your inventory. With this Software, subscribers are able to keep detailed track of their invoices,receive reports, and conduct inventory counts based on their customized count sheets.inventory management system gives you the information you need and helps you organize your business.
